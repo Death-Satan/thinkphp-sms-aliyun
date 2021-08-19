@@ -4,6 +4,7 @@
     "type": "library",
     "homepage": "https://www.cnblogs.com/death-satan",
     "license": "MIT",
+    "composer-runtime-api": "*",
     "authors": [
         {
             "name": "death-satan",
